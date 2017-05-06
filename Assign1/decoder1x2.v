@@ -1,4 +1,4 @@
-/ Name: Ali Iqbal 
+// Ali Iqbal 
 // decoder2x4.v, 2x4 decoder, gate synthesis
 //
 // how to compile: ~changw/ivl/bin/iverilog decoder1x2.v
